@@ -5,4 +5,5 @@ Also with added commands and functionality: cat, history, and pipes
 
 Clone repo from link above and build with given wish.c file. Build and run with cloned test cases. 
 >    gcc -o wish wish.c -Wall -Werror
+
 >    ./test-wish.sh
